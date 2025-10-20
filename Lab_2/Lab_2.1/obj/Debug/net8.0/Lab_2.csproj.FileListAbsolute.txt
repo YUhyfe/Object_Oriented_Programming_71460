@@ -1,0 +1,14 @@
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\bin\Debug\net8.0\Lab_2.exe
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\bin\Debug\net8.0\Lab_2.deps.json
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\bin\Debug\net8.0\Lab_2.runtimeconfig.json
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\bin\Debug\net8.0\Lab_2.dll
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\bin\Debug\net8.0\Lab_2.pdb
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfo.cs
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\Lab_2.dll
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\refint\Lab_2.dll
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\Lab_2.pdb
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\Lab_2.genruntimeconfig.cache
+C:\Users\prefi\source\repos\YUhyfe\Lab_2\obj\Debug\net8.0\ref\Lab_2.dll
