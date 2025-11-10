@@ -1,0 +1,15 @@
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\bin\Debug\net8.0\Lab_3.exe
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\bin\Debug\net8.0\Lab_3.deps.json
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\bin\Debug\net8.0\Lab_3.runtimeconfig.json
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\bin\Debug\net8.0\Lab_3.dll
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\bin\Debug\net8.0\Lab_3.pdb
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.AssemblyInfoInputs.cache
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.AssemblyInfo.cs
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.sourcelink.json
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.dll
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\refint\Lab_3.dll
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.pdb
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\Lab_3.genruntimeconfig.cache
+C:\Users\prefi\source\repos\YUhyfe\Object_Oriented_Programming_71460\Lab_3\obj\Debug\net8.0\ref\Lab_3.dll
